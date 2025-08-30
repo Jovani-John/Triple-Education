@@ -12,7 +12,7 @@ import { ButtonBasc } from "../../components/Buttons";
 // ================================
 // Importing API
 // ================================
-import Articles from "../../Api/Articles.json";
+import Articles from "../../api/Articles.json";
 
 // ================================
 // Importing icons
