@@ -9,7 +9,7 @@ import { Rating } from "@smastrom/react-rating";
 // ================================
 // Importing API
 // ================================
-import ListReviews from "../../Api/Reviews.json";
+import ListReviews from "../../api/Reviews.json";
 
 // ================================
 // Importing required modules
